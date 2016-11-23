@@ -1,0 +1,11 @@
+---
+title: "Statistical functions"
+author: "Prash Medirattaa"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Statistical functions}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+This is Vignette for this package. 
