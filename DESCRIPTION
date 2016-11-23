@@ -2,7 +2,7 @@ Package: rstandard
 Title: What the Package Does (one line, title case)
 Version: 0.0.0.9000
 Authors@R: person("Prash", "Medirattaa", email = "prash16@gmail.com.com", role = c("aut", "cre"))
-Description: This package calculates standard deviation.
+Description: This package calculates standard deviation and standard error
 Depends:
     R (>= 3.3.2)
 License: MIT + file LICENSE
