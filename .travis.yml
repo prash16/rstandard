@@ -3,6 +3,3 @@ language: r
 
 cache: packages
 
-
-env:
-- TRAVIS_R_VERSION=3.3.2
