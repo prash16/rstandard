@@ -1,8 +1,14 @@
 rstandard
 ================
 
+[![Build Status](https://travis-ci.org/prash16/rstandard.svg?branch=master)](https://travis-ci.org/prash16/rstandard)
+
+
+
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 **NOTE: This is a toy package created for the UBC MDS course.**
+
 
 ### rstandard
 

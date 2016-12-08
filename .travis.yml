@@ -3,5 +3,8 @@ language: r
 
 cache: packages
 
+r_packages:
+	- rstandard
+
 env:
 - TRAVIS_R_VERSION=3.3.2
