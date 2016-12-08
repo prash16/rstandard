@@ -2,4 +2,4 @@ language: r
 
 cache: packages
 
-TRAVIS_R_VERSION=3.3.2
+r:TRAVIS_R_VERSION=3.3.2
