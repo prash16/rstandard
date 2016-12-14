@@ -9,7 +9,7 @@
 #'
 #' @examples
 #'
-#' standard_deviation(c(1,2,3,4))
+#' standard_deviation(c(1,2,3,4)) #making small change
 #'
 standard_deviation <- function(x) {
 	n <- length(x)
